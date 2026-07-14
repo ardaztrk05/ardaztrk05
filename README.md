@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=39FF14&center=true&vCenter=true&width=750&height=50&lines=Merhaba%2C+Ben+Arda+%C3%96zt%C3%BCrk;AI+Engineering+Student;Founder+%40+%C4%B0MEJE;Building+with+Artificial+Intelligence" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:145a32,100:39FF14&height=180&section=header&text=Arda%20Öztürk&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineering%20%7C%20Founder%20%40%20İMEJE&descAlignY=58&descSize=18" width="100%"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=1200&color=39FF14&center=true&vCenter=true&width=750&height=45&lines=AI+Engineering+Student+%40+Trabzon+University;Founder+%26+Team+Leader+of+%C4%B0MEJE;President+%40+AI+%26+Robotics+Club;Building+with+Artificial+Intelligence" alt="Typing SVG" />
 
 </div>
 
